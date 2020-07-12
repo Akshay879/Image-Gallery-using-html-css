@@ -1,0 +1,13 @@
+img {
+	width:30%;
+	float:left;
+	margin:1.66%;	
+}
+p {
+	font-family: Arial;
+	margin-left: 1.66%;
+	border-bottom: 3px solid red;
+}
+body {
+	background: gold;
+}
